@@ -1,0 +1,10 @@
+-----文件创建-----
+文件已存在
+-----文件读取-----
+文件中有以下内容：
+This is a line of text inside the file.
+Second line.
+-----文件写入(覆盖)-----
+Data is written to the file.
+
+Process finished with exit code 0

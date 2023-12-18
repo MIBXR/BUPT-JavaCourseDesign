@@ -1,0 +1,15 @@
+SuperWorkTwo: x=5
+WorkTwo: x=8
+SuperWorkTwo.doWorkTwo()
+WorkTwo.doWorkTwo()
+-----子类重新定义的父类同名成员变量-----
+super.x=5
+this.x=8
+-----子类没有重新定义的父类成员变量-----
+super.y=6
+this.y=6
+修改this.y=999
+super.y=999
+this.y=999
+
+Process finished with exit code 0
